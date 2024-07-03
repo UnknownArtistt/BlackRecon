@@ -15,9 +15,9 @@ BlackRecon can execute 44 different scans, they are organized in categories to e
 - Specific Purpose Scans
 - Saving Results
 
-BlackRecon will show all the scanner list and will ask to enter the scan number you want to execute. Once you enter the scan number BlackRecon will ask you about the arguments of the specific command (if there is any on the scan you are executing).
+BlackRecon will show all the scanner list and will ask to enter the scan number you want to execute. Once you enter the scan number the program will ask you about the arguments of the specific command (if there is any on the scan you are executing).
 
-You can also see a description and the respective command of each scanner entering <b>'info <scan number>'.</b>
+You can also see a description and the respective command of each scanner entering <b>'info <number>'.</b> For example info 4
 
 ## Disclaimer
 
