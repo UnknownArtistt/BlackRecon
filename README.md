@@ -30,3 +30,25 @@ This program, BlackRecon, is provided for educational and informational purposes
 By using BlackRecon, you agree that you are solely responsible for any legal or ethical implications that may arise from your usage of the program. The author disclaims any responsibility for any harm resulting from the use or misuse of BlackRecon.
 
 ## Installation
+
+You can install and run the program compilling it by your own or using the bash scripts:
+
+### Manual Compilation (Debian Example)
+
+First install the dependencies (nmap, gcc and figlet), then clone the repository and compile the program:
+
+        sudo apt install nmap
+        sudo apt install gcc
+        sudo apt install figlet
+
+        git clone https://github.com/UnknownArtistt/BlackRecon
+        cd BlackRecon
+        gcc -o BlackRecon BlackRecon.c
+
+<b>Note that if you are going to executed advanced scans with BlackRecon you will need to execute the program with sudo
+
+        sudo ./BlackRecon
+
+### Via Script
+
+
