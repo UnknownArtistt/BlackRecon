@@ -1,5 +1,7 @@
 # BlackRecon
 
+<img src="banner.png" width=40%</img>
+
 BlackRecon is an automated tool for efficiently and easily executing Nmap scan commands. The tool is aimed at experienced Nmap users who want a solid base of commands accessible with a single click. It provides a command-line interface to select and execute various types of scans, as well as display information about each one.
 
 ## Features
