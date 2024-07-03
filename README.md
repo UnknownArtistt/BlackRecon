@@ -23,4 +23,8 @@ You can also see a description and the respective command of each scanner enteri
 
 ## Disclaimer
 
+This program, BlackRecon, is provided for educational and informational purposes only. The author does not condone, promote, or encourage any illegal or unauthorized activities. Any actions and/or activities conducted with BlackRecon are solely the responsibility of the user. The author shall not be held responsible for any misuse of the information or tools provided by this program. It is the user's responsibility to abide by all applicable laws and regulations in their jurisdiction while using BlackRecon.
+
+By using BlackRecon, you agree that you are solely responsible for any legal or ethical implications that may arise from your usage of the program. The author disclaims any responsibility for any harm resulting from the use or misuse of BlackRecon.
+
 ## Installation
