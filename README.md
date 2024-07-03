@@ -45,10 +45,20 @@ First install the dependencies (nmap, gcc and figlet), then clone the repository
         cd BlackRecon
         gcc -o BlackRecon BlackRecon.c
 
-<b>Note that if you are going to executed advanced scans with BlackRecon you will need to execute the program with sudo
+<b>Note that if you are going to executed advanced scans with BlackRecon you will need to execute the program with sudo, otherwise you can run it with your normal user
 
-        sudo ./BlackRecon
+        sudo ./BlackRecon or ./BlackRecon
 
-### Via Script
+### Via Script (Debian Example)
 
+First clone the repository and give the script executing permissions (choose the correct script for your distribution), then execute the script and once the script has been executed correctly run the program:
 
+        git clone https://github.com/UnknownArtistt/BlackRecon
+        cd BlackRecon
+        chmod +x blackrecon_debian.sh
+        sudo ./blackrecon_debian.sh
+
+<b>Note that if you are going to executed advanced scans with BlackRecon you will need to execute the program with sudo, otherwise you can run it with your normal user
+
+        sudo ./BlackRecon or ./BlackRecon
+        
