@@ -24,10 +24,6 @@ else
     echo "Figlet is already installed."
 fi
 
-# Clone the repository
-git clone https://github.com/UnknownArtistt/BlackRecon.git
-cd BlackRecon
-
 # Compile the program
 gcc -o BlackRecon BlackRecon.c
 
